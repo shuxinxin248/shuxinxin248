@@ -1,6 +1,8 @@
-## Hi there 👋 😸
+## Hi there I am LinShuxin👋 😸
 ### 一、自我介绍
 
-<img width="413" height="550" alt="image" src="https://github.com/user-attachments/assets/07b259b5-8b0c-4df2-8093-f262e2058409" />
+<div align="ceter">
+<img scr="" width="50%">
+</div>
 
-先放一张本暑期新鲜出炉的照片——这是我在云南洱海边拍的，虽然看起来光鲜亮丽，实则在海拔高达3500m的高度下我已经开始
+先放一张本暑期新鲜出炉的照片——这是我在云南洱海边拍的，虽然看起来光鲜亮丽，实则在海拔高达3500m的高度下我已经开始有了轻微的高原反应，但是呢本人秉持着“来都来了”的信条还是在洱海美美出片了
